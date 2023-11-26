@@ -7,6 +7,8 @@ public class BasicGit {
 		System.out.println("Project Created...");
 		
 		System.out.println("Dev first");
+		
+		System.out.println("QA second");
 
 	}
 
