@@ -9,6 +9,8 @@ public class BasicGit {
 		System.out.println("Dev first");
 		
 		System.out.println("QA second");
+		
+		System.out.println("Dev second...");
 
 	}
 
